@@ -1,89 +1,89 @@
 #EXTM3U
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",AT: ATV HD
+#EXTINF:-1 group-title="Austria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/800px-Flag_of_Austria.svg.png",ATV HD
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/207893
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",AT: ATV 2
+#EXTINF:-1 group-title="Austria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/800px-Flag_of_Austria.svg.png",ATV 2
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/160040
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",AT: AUSTRIA 24
+#EXTINF:-1 group-title="Austria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/800px-Flag_of_Austria.svg.png",AUSTRIA 24
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/207477
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",AT: DORF TV
+#EXTINF:-1 group-title="Austria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/800px-Flag_of_Austria.svg.png",DORF TV
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/31297
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",AT: PULS 24
+#EXTINF:-1 group-title="Austria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/800px-Flag_of_Austria.svg.png",PULS 24
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/207913
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",AT: ORF 1 HD
+#EXTINF:-1 group-title="Austria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/800px-Flag_of_Austria.svg.png",ORF 1 HD
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/13963
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",AT: ORF 2 HD
+#EXTINF:-1 group-title="Austria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/800px-Flag_of_Austria.svg.png",ORF 2 HD
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/13996
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",AT: ORF Sport
+#EXTINF:-1 group-title="Austria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/800px-Flag_of_Austria.svg.png",ORF Sport
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/121223
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",AT: ORF Sport+ HD
+#EXTINF:-1 group-title="Austria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/800px-Flag_of_Austria.svg.png",ORF Sport+ HD
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/16517
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",AT: R9
+#EXTINF:-1 group-title="Austria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/800px-Flag_of_Austria.svg.png",R9
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/31392
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",AT: SERVUS TV
+#EXTINF:-1 group-title="Austria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/800px-Flag_of_Austria.svg.png",SERVUS TV
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/121221
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",AT: OE24
+#EXTINF:-1 group-title="Austria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/800px-Flag_of_Austria.svg.png",OE24
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/14683
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",SW: 3+ HD
+#EXTINF:-1 group-title="Swiss" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/800px-Flag_of_Switzerland.svg.png", 3+ HD
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/39423
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",SW: 4+ HD
+#EXTINF:-1 group-title="Swiss" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/800px-Flag_of_Switzerland.svg.png", 4+ HD
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/65108
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",SW: 6+ HD
+#EXTINF:-1 group-title="Swiss" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/800px-Flag_of_Switzerland.svg.png", 6+ HD
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/39428
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",SW: Tele Z FHD
+#EXTINF:-1 group-title="Swiss" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/800px-Flag_of_Switzerland.svg.png", Tele Z FHD
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/39469
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",SW: Tele1 FHD
+#EXTINF:-1 group-title="Swiss" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/800px-Flag_of_Switzerland.svg.png", Tele1 FHD
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/39470
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",SW: Telebasel HD
+#EXTINF:-1 group-title="Swiss" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/800px-Flag_of_Switzerland.svg.png", Telebasel HD
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/39471
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",SW: TV24 HD
+#EXTINF:-1 group-title="Swiss" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/800px-Flag_of_Switzerland.svg.png", TV24 HD
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/39477
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",SW: RTS Deux HD
+#EXTINF:-1 group-title="Swiss" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/800px-Flag_of_Switzerland.svg.png", RTS Deux HD
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/15850
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",SW: RTS Un HD
+#EXTINF:-1 group-title="Swiss" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/800px-Flag_of_Switzerland.svg.png", RTS Un HD
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/15851
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",SW: TELE M1
+#EXTINF:-1 group-title="Swiss" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/800px-Flag_of_Switzerland.svg.png", TELE M1
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/27976
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",SW: SRF 1 HD
+#EXTINF:-1 group-title="Swiss" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/800px-Flag_of_Switzerland.svg.png", SRF 1 HD
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/15852
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",SW: SRF Info HD
+#EXTINF:-1 group-title="Swiss" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/800px-Flag_of_Switzerland.svg.png",SRF Info HD
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/39449
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",SW: SRF ZWEI HD
+#EXTINF:-1 group-title="Swiss" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/800px-Flag_of_Switzerland.svg.png", SRF ZWEI HD
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/39447
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",SW: Puls 8 FHD
+#EXTINF:-1 group-title="Swiss" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/800px-Flag_of_Switzerland.svg.png", Puls 8 FHD
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/39441
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",SW: Blue ACTION
+#EXTINF:-1 group-title="Swiss" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/800px-Flag_of_Switzerland.svg.png", Blue ACTION
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/39452
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",SW: Blue SPORT 1
+#EXTINF:-1 group-title="Swiss" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/800px-Flag_of_Switzerland.svg.png", Blue SPORT 1
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/39459
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",SW: Blue SPORT 2
+#EXTINF:-1 group-title="Swiss" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/800px-Flag_of_Switzerland.svg.png", Blue SPORT 2
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/39461
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",SW: Blue STARS
+#EXTINF:-1 group-title="Swiss" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/800px-Flag_of_Switzerland.svg.png", Blue STARS
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/39458
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",SW: Blue ZOOM D
+#EXTINF:-1 group-title="Swiss" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/800px-Flag_of_Switzerland.svg.png", Blue ZOOM D
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/39465
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",SW: CANAL ALPHA FHD
+#EXTINF:-1 group-title="Swiss" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/800px-Flag_of_Switzerland.svg.png", CANAL ALPHA FHD
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/27965
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",SW: DIE NEUE ZEIT
+#EXTINF:-1 group-title="Swiss" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/800px-Flag_of_Switzerland.svg.png", DIE NEUE ZEIT
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/27966
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",SW: KANAL 9 HD
+#EXTINF:-1 group-title="Swiss" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/800px-Flag_of_Switzerland.svg.png", KANAL 9 HD
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/27968
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",SW: MySports FHD
+#EXTINF:-1 group-title="Swiss" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/800px-Flag_of_Switzerland.svg.png", MySports FHD
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/39440
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",SW: MySports 1 FHD
+#EXTINF:-1 group-title="Swiss" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/800px-Flag_of_Switzerland.svg.png", MySports 1 FHD
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/15865
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",SW: MySports 2 FHD
+#EXTINF:-1 group-title="Swiss" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/800px-Flag_of_Switzerland.svg.png", MySports 2 FHD
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/15866
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",SW: MySports 3 FHD
+#EXTINF:-1 group-title="Swiss" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/800px-Flag_of_Switzerland.svg.png", MySports 3 FHD
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/15868
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",SW: Mysports 4 FHD
+#EXTINF:-1 group-title="Swiss" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/800px-Flag_of_Switzerland.svg.png", Mysports 4 FHD
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/39435
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",SW: MySports 5 FHD
+#EXTINF:-1 group-title="Swiss" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/800px-Flag_of_Switzerland.svg.png", MySports 5 FHD
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/209439
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",SW: MySports 6 FHD
+#EXTINF:-1 group-title="Swiss" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/800px-Flag_of_Switzerland.svg.png", MySports 6 FHD
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/209440
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",SW: MySports 7 FHD
+#EXTINF:-1 group-title="Swiss" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/800px-Flag_of_Switzerland.svg.png", MySports 7 FHD
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/209441
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",SW: MySports 8 FHD
+#EXTINF:-1 group-title="Swiss" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/800px-Flag_of_Switzerland.svg.png", MySports 8 FHD
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/209442
 #EXTINF:-1 group-title="Belgia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/115px-Flag_of_Belgium.svg.png",CANVAS HD
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/4858
@@ -319,135 +319,135 @@ http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/210202
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/210203
 #EXTINF:-1 group-title="YUNANI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/150px-Flag_of_Greece.svg.png",Viasat Nature
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/210204
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",IT: Rai 5
+#EXTINF:-1 group-title="Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1024px-Flag_of_Italy.svg.png", Rai 5
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/14717
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",IT: Rai Gulp
+#EXTINF:-1 group-title="Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1024px-Flag_of_Italy.svg.png", Rai Gulp
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/14857
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",IT: Rai Movie
+#EXTINF:-1 group-title="Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1024px-Flag_of_Italy.svg.png", Rai Movie
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/14719
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",IT: Rai News 24
+#EXTINF:-1 group-title="Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1024px-Flag_of_Italy.svg.png", Rai News 24
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/14861
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",IT: Rai Premium
+#EXTINF:-1 group-title="Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1024px-Flag_of_Italy.svg.png", Rai Premium
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/43914
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",IT: Rai Scuola
+#EXTINF:-1 group-title="Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1024px-Flag_of_Italy.svg.png", Rai Scuola
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/14720
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",IT: Rai Sport1 + HD
+#EXTINF:-1 group-title="Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1024px-Flag_of_Italy.svg.png",Rai Sport1 + HD
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/43942
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",IT: Rai Storia
+#EXTINF:-1 group-title="Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1024px-Flag_of_Italy.svg.png", Rai Storia
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/14837
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",IT: Rai Yoyo
+#EXTINF:-1 group-title="Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1024px-Flag_of_Italy.svg.png", Rai Yoyo
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/14856
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",IT: Rete 4
+#EXTINF:-1 group-title="Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1024px-Flag_of_Italy.svg.png", Rete 4
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/14600
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",IT: Sky Primafila Premiere 10 4K
+#EXTINF:-1 group-title="Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1024px-Flag_of_Italy.svg.png", Sky Primafila Premiere 10 4K
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/43921
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",IT: Super Tennis
+#EXTINF:-1 group-title="Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1024px-Flag_of_Italy.svg.png", Super Tennis
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/14757
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",IT: TG La7
+#EXTINF:-1 group-title="Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1024px-Flag_of_Italy.svg.png", TG La7
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/14603
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",IT: Tgcom24
+#EXTINF:-1 group-title="Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1024px-Flag_of_Italy.svg.png", Tgcom24
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/14858
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",IT: Top Crime
+#EXTINF:-1 group-title="Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1024px-Flag_of_Italy.svg.png", Top Crime
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/14707
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",IT: TV8
+#EXTINF:-1 group-title="Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1024px-Flag_of_Italy.svg.png", TV8
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/69551
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",PT: AFRO MUSIC
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1024px-Flag_of_Portugal.svg.png",AFRO MUSIC
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/131068
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",PT: AMC
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1024px-Flag_of_Portugal.svg.png",AMC
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/131049
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",PT: AXN
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1024px-Flag_of_Portugal.svg.png",AXN
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/131050
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",PT: AXN MOVIES
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1024px-Flag_of_Portugal.svg.png",AXN MOVIES
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/131045
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",PT: AXN WHITE
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1024px-Flag_of_Portugal.svg.png",AXN WHITE
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/131044
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",PT: CANAL 180
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1024px-Flag_of_Portugal.svg.png",CANAL 180
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/131089
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",PT: CANCAO NOVA
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1024px-Flag_of_Portugal.svg.png",CANCAO NOVA
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/131090
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",PT: CARTOON NETWORK
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1024px-Flag_of_Portugal.svg.png",CARTOON NETWORK
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/131063
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",PT: CASA E COZINHA
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1024px-Flag_of_Portugal.svg.png",CASA E COZINHA
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/130945
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",PT: CINEMUNDO
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1024px-Flag_of_Portugal.svg.png",CINEMUNDO
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/131042
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",PT: CRIME INVESTIGATION
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1024px-Flag_of_Portugal.svg.png",CRIME INVESTIGATION
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/131094
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",PT: DISCOVERY CHANNEL
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1024px-Flag_of_Portugal.svg.png",DISCOVERY CHANNEL
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/131080
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",PT: DISNEY CHANNEL
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1024px-Flag_of_Portugal.svg.png",DISNEY CHANNEL
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/131054
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",PT: DISNEY JUNIOR
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1024px-Flag_of_Portugal.svg.png",DISNEY JUNIOR
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/131055
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",PT: EURONEWS
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1024px-Flag_of_Portugal.svg.png",EURONEWS
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/130928
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",PT: EUROSPORT 1
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1024px-Flag_of_Portugal.svg.png",EUROSPORT 1
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/130966
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",PT: EUROSPORT 2
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1024px-Flag_of_Portugal.svg.png",EUROSPORT 2
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/130967
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",PT: FOX COMEDY
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1024px-Flag_of_Portugal.svg.png",FOX COMEDY
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/131047
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",PT: FOX CRIME
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1024px-Flag_of_Portugal.svg.png",FOX CRIME
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/131046
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",PT: FOX LIFE
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1024px-Flag_of_Portugal.svg.png",FOX LIFE
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/131052
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",PT: FOX MOVIES
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1024px-Flag_of_Portugal.svg.png",FOX MOVIES
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/131041
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",PT: FUEL TV
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1024px-Flag_of_Portugal.svg.png",FUEL TV
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/130976
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",PT: ID INVESTIGATION DISCOVERY
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1024px-Flag_of_Portugal.svg.png",ID INVESTIGATION DISCOVERY
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/131077
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",PT: 24 KITCHEN
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1024px-Flag_of_Portugal.svg.png",24 KITCHEN
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/130946
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",PT: COMBAT
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1024px-Flag_of_Portugal.svg.png",COMBAT
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/130974
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",PT: MEZZO
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1024px-Flag_of_Portugal.svg.png",MEZZO
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/131075
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",PT: MOTORVISION
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1024px-Flag_of_Portugal.svg.png",MOTORVISION
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/130975
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",PT: NAT GEO
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1024px-Flag_of_Portugal.svg.png",NAT GEO
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/131078
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",PT: NAT GEO WILD
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1024px-Flag_of_Portugal.svg.png",NAT GEO WILD
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/131079
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",PT: NICKELODEON
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1024px-Flag_of_Portugal.svg.png",NICKELODEON
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/131060
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",PT: RTP 1
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1024px-Flag_of_Portugal.svg.png",RTP 1
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/130916
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",PT: RTP 2
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1024px-Flag_of_Portugal.svg.png",RTP 2
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/130917
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",PT: RTP 3
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1024px-Flag_of_Portugal.svg.png",RTP 3
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/130918
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",PT: RTP AÇORES
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1024px-Flag_of_Portugal.svg.png",RTP AÇORES
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/131100
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",PT: RTP MEMORIA
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1024px-Flag_of_Portugal.svg.png",RTP MEMORIA
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/131101
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",PT: SIC
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1024px-Flag_of_Portugal.svg.png",SIC
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/130919
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",PT: SIC CARAS
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1024px-Flag_of_Portugal.svg.png",SIC CARAS
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/130936
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",PT: SIC MULHER
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1024px-Flag_of_Portugal.svg.png",SIC MULHER
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/130935
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",PT: SIC NOTICIAS
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1024px-Flag_of_Portugal.svg.png",SIC NOTICIAS
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/130922
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",PT: SIC RADICAL
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1024px-Flag_of_Portugal.svg.png",SIC RADICAL
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/130934
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",PT: SPORT TV 4 FHD
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1024px-Flag_of_Portugal.svg.png",SPORT TV 4 FHD
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/130955
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",PT: SPORT TV NBA
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1024px-Flag_of_Portugal.svg.png",SPORT TV NBA
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/130957
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",PT: SYFY
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1024px-Flag_of_Portugal.svg.png",SYFY
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/131053
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",PT: TVCINE ACTION
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1024px-Flag_of_Portugal.svg.png",TVCINE ACTION
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/131040
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",PT: TVCINE EDITION
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1024px-Flag_of_Portugal.svg.png",TVCINE EDITION
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/131038
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",PT: TVCINE EMOTION
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1024px-Flag_of_Portugal.svg.png",TVCINE EMOTION
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/131039
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",PT: TVCINE TOP
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1024px-Flag_of_Portugal.svg.png",TVCINE TOP
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/131037
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",PT: TVI HD
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1024px-Flag_of_Portugal.svg.png",TVI HD
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/130920
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",PT: TVI 24
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1024px-Flag_of_Portugal.svg.png",TVI 24
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/130923
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",FR: 6TER
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/44372
@@ -1647,147 +1647,147 @@ http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/76350
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/76354
 #EXTINF:-1 group-title="Belanda" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/150px-Flag_of_the_Netherlands.svg.png", ZIGGO SPORT VOETBAL HD
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/76351
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",CRO: BABY TV
+#EXTINF:-1 group-title="Croatia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/400px-Flag_of_Croatia.svg.png", BABY TV
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/36600
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",CRO: BBC Earth HD
+#EXTINF:-1 group-title="Croatia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/400px-Flag_of_Croatia.svg.png", BBC Earth HD
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/27720
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",CRO: DOMA TV
+#EXTINF:-1 group-title="Croatia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/400px-Flag_of_Croatia.svg.png", DOMA TV
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/36566
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",CRO: EPIC DRAMA
+#EXTINF:-1 group-title="Croatia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/400px-Flag_of_Croatia.svg.png", EPIC DRAMA
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/36598
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",CRO: FILM KLUB
+#EXTINF:-1 group-title="Croatia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/400px-Flag_of_Croatia.svg.png", FILM KLUB
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/36596
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",CRO: HRT 1 HD
+#EXTINF:-1 group-title="Croatia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/400px-Flag_of_Croatia.svg.png", HRT 1 HD
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/36554
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",CRO: HRT 2 HD
+#EXTINF:-1 group-title="Croatia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/400px-Flag_of_Croatia.svg.png", HRT 2 HD
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/36556
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",CRO: HRT 3 HD
+#EXTINF:-1 group-title="Croatia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/400px-Flag_of_Croatia.svg.png", HRT 3 HD
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/36559
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",CRO: HRT 4 HD
+#EXTINF:-1 group-title="Croatia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/400px-Flag_of_Croatia.svg.png", HRT 4 HD
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/36560
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",CRO: HRT Int
+#EXTINF:-1 group-title="Croatia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/400px-Flag_of_Croatia.svg.png", HRT Int
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/36562
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",CRO: JUGOTON TV
+#EXTINF:-1 group-title="Croatia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/400px-Flag_of_Croatia.svg.png", JUGOTON TV
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/36593
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",CRO: KINO TV
+#EXTINF:-1 group-title="Croatia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/400px-Flag_of_Croatia.svg.png", KINO TV
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/36592
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",CRO: KLASIK TV
+#EXTINF:-1 group-title="Croatia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/400px-Flag_of_Croatia.svg.png", KLASIK TV
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/36591
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",CRO: M1 FILM
+#EXTINF:-1 group-title="Croatia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/400px-Flag_of_Croatia.svg.png", M1 FILM
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/36588
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",CRO: M1 GOLD
+#EXTINF:-1 group-title="Croatia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/400px-Flag_of_Croatia.svg.png", M1 GOLD
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/36587
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",CRO: MaxSport 1
+#EXTINF:-1 group-title="Croatia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/400px-Flag_of_Croatia.svg.png", MaxSport 1
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/107066
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",CRO: MaxSport 2
+#EXTINF:-1 group-title="Croatia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/400px-Flag_of_Croatia.svg.png", MaxSport 2
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/208617
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",CRO: MINI TV
+#EXTINF:-1 group-title="Croatia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/400px-Flag_of_Croatia.svg.png", MINI TV
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/36586
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",CRO: NOVA TV
+#EXTINF:-1 group-title="Croatia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/400px-Flag_of_Croatia.svg.png", NOVA TV
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/36563
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",CRO: PIKABOO
+#EXTINF:-1 group-title="Croatia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/400px-Flag_of_Croatia.svg.png", PIKABOO
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/36581
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",CRO: RTL 2
+#EXTINF:-1 group-title="Croatia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/400px-Flag_of_Croatia.svg.png", RTL 2
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/36565
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",CRO: RTL CRIME
+#EXTINF:-1 group-title="Croatia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/400px-Flag_of_Croatia.svg.png", RTL CRIME
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/36570
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",CRO: RTL HD
+#EXTINF:-1 group-title="Croatia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/400px-Flag_of_Croatia.svg.png", RTL HD
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/205858
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",CRO: RTL KOCKICA
+#EXTINF:-1 group-title="Croatia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/400px-Flag_of_Croatia.svg.png", RTL KOCKICA
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/36572
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",CRO: RTL LIVING
+#EXTINF:-1 group-title="Croatia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/400px-Flag_of_Croatia.svg.png", RTL LIVING
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/36568
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",CRO: RTL PASSION
+#EXTINF:-1 group-title="Croatia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/400px-Flag_of_Croatia.svg.png", RTL PASSION
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/36569
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",CRO: RTL TELEVIZIJA
+#EXTINF:-1 group-title="Croatia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/400px-Flag_of_Croatia.svg.png", RTL TELEVIZIJA
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/36571
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",CRO: SLAVONSKA TV
+#EXTINF:-1 group-title="Croatia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/400px-Flag_of_Croatia.svg.png", SLAVONSKA TV
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/36580
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",CRO: SPORT KLUB 1 HD
+#EXTINF:-1 group-title="Croatia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/400px-Flag_of_Croatia.svg.png", SPORT KLUB 1 HD
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/36579
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",CRO: SPORT KLUB 2 HD
+#EXTINF:-1 group-title="Croatia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/400px-Flag_of_Croatia.svg.png", SPORT KLUB 2 HD
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/36577
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",CRO: SPORT KLUB 5 HD
+#EXTINF:-1 group-title="Croatia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/400px-Flag_of_Croatia.svg.png", SPORT KLUB 5 HD
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/158256
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",CRO: SPORT KLUB 6 HD
+#EXTINF:-1 group-title="Croatia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/400px-Flag_of_Croatia.svg.png", SPORT KLUB 6 HD
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/158257
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",CRO: TV 1000
+#EXTINF:-1 group-title="Croatia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/400px-Flag_of_Croatia.svg.png", TV 1000
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/39759
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",CRO: VINKOVACKA TV
+#EXTINF:-1 group-title="Croatia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/400px-Flag_of_Croatia.svg.png",VINKOVACKA TV
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/36574
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",CRO: Z1
+#EXTINF:-1 group-title="Croatia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/400px-Flag_of_Croatia.svg.png", Z1
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/36573
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",CRO: ARENA SPORT 4 HD
+#EXTINF:-1 group-title="Croatia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/400px-Flag_of_Croatia.svg.png", ARENA SPORT 4 HD
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/36603
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",CRO: ARENA SPORT 5 HD
+#EXTINF:-1 group-title="Croatia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/400px-Flag_of_Croatia.svg.png", ARENA SPORT 5 HD
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/36602
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",CRO: ARENA SPORT 6 HD
+#EXTINF:-1 group-title="Croatia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/400px-Flag_of_Croatia.svg.png", ARENA SPORT 6 HD
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/36601
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",CRO: ARENA SPORT 2 HD
+#EXTINF:-1 group-title="Croatia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/400px-Flag_of_Croatia.svg.png", ARENA SPORT 2 HD
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/36605
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",CRO: ARENA SPORT 3 HD
+#EXTINF:-1 group-title="Croatia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/400px-Flag_of_Croatia.svg.png", ARENA SPORT 3 HD
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/36604
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",CRO: ARENA SPORT 7 HD
+#EXTINF:-1 group-title="Croatia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/400px-Flag_of_Croatia.svg.png", ARENA SPORT 7 HD
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/153575
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",CRO: ARENA SPORT 1 HD
+#EXTINF:-1 group-title="Croatia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/400px-Flag_of_Croatia.svg.png", ARENA SPORT 1 HD
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/36606
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",HU: AMC
+#EXTINF:-1 group-title="Hongaria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/1280px-Flag_of_Hungary.svg.png", AMC
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/157530
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",HU: Animal Planet
+#EXTINF:-1 group-title="Hongaria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/1280px-Flag_of_Hungary.svg.png", Animal Planet
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/157532
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",HU: Auto Motor Sport
+#EXTINF:-1 group-title="Hongaria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/1280px-Flag_of_Hungary.svg.png", Auto Motor Sport
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/157540
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",HU: AXN Black
+#EXTINF:-1 group-title="Hongaria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/1280px-Flag_of_Hungary.svg.png", AXN Black
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/157542
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",HU: Balaton TV
+#EXTINF:-1 group-title="Hongaria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/1280px-Flag_of_Hungary.svg.png", Balaton TV
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/157545
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",HU: Boomerang
+#EXTINF:-1 group-title="Hongaria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/1280px-Flag_of_Hungary.svg.png", Boomerang
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/157548
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",HU: Cinemax 1
+#EXTINF:-1 group-title="Hongaria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/1280px-Flag_of_Hungary.svg.png", Cinemax 1
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/157556
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",HU: Cinemax 2
+#EXTINF:-1 group-title="Hongaria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/1280px-Flag_of_Hungary.svg.png", Cinemax 2
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/157557
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",HU: Comedy Central
+#EXTINF:-1 group-title="Hongaria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/1280px-Flag_of_Hungary.svg.png", Comedy Central
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/157559
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",HU: Cool TV
+#EXTINF:-1 group-title="Hongaria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/1280px-Flag_of_Hungary.svg.png", Cool TV
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/157563
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",HU: DIGI Film
+#EXTINF:-1 group-title="Hongaria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/1280px-Flag_of_Hungary.svg.png", DIGI Film
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/157569
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",HU: Digi Life
+#EXTINF:-1 group-title="Hongaria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/1280px-Flag_of_Hungary.svg.png", Digi Life
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/157571
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",HU: DIGI Sport 1
+#EXTINF:-1 group-title="Hongaria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/1280px-Flag_of_Hungary.svg.png", DIGI Sport 1
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/157572
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",HU: Discovery ID
+#EXTINF:-1 group-title="Hongaria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/1280px-Flag_of_Hungary.svg.png", Discovery ID
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/157578
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",HU: Disney Channel
+#EXTINF:-1 group-title="Hongaria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/1280px-Flag_of_Hungary.svg.png", Disney Channel
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/157580
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",HU: DTV
+#EXTINF:-1 group-title="Hongaria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/1280px-Flag_of_Hungary.svg.png", DTV
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/157582
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",HU: Duna World
+#EXTINF:-1 group-title="Hongaria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/1280px-Flag_of_Hungary.svg.png", Duna World
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/157589
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",HU: Eurosport 2
+#EXTINF:-1 group-title="Hongaria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/1280px-Flag_of_Hungary.svg.png", Eurosport 2
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/157593
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",HU: Extreme Sports
+#EXTINF:-1 group-title="Hongaria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/1280px-Flag_of_Hungary.svg.png", Extreme Sports
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/157595
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",HU: Film 1
+#EXTINF:-1 group-title="Hongaria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/1280px-Flag_of_Hungary.svg.png", Film 1
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/157599
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",HU: Film 4
+#EXTINF:-1 group-title="Hongaria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/1280px-Flag_of_Hungary.svg.png", Film 4
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/157600
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",HU: Film Box Extra
+#EXTINF:-1 group-title="Hongaria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/1280px-Flag_of_Hungary.svg.png", Film Box Extra
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/157601
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",HU: Film Cafe
+#EXTINF:-1 group-title="Hongaria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/1280px-Flag_of_Hungary.svg.png", Film Cafe
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/157602
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",HU: RTL Klub
+#EXTINF:-1 group-title="Hongaria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/1280px-Flag_of_Hungary.svg.png", RTL Klub
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/157656
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",HU: Sorozat+
+#EXTINF:-1 group-title="Hongaria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/1280px-Flag_of_Hungary.svg.png", Sorozat+
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/157658
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",HU: Spektrum
+#EXTINF:-1 group-title="Hongaria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/1280px-Flag_of_Hungary.svg.png", Spektrum
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/157659
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",HU: Sport 1 HD
+#EXTINF:-1 group-title="Hongaria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/1280px-Flag_of_Hungary.svg.png", Sport 1 HD
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/157662
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",HU: Sport 2
+#EXTINF:-1 group-title="Hongaria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/1280px-Flag_of_Hungary.svg.png", Sport 2
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/157663
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",HU: Super TV2
+#EXTINF:-1 group-title="Hongaria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/1280px-Flag_of_Hungary.svg.png",Super TV2
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/157665
 #EXTINF:-1 group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/180px-Flag_of_the_United_Kingdom.svg.png", BBC 1
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/16133
