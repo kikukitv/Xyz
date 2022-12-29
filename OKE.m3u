@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="metrotv.id" tvg-name="ID| METRO TV HD" tvg-logo="https://lo1.in/indo/metr.png" group-title="AS | INDONESEA",ID| METRO TV HD
 http://sharkiptv.vip:80/0863663869/2048942146/191798
-#EXTINF:-1 tvg-id="" tvg-name="ID| ALL SPORTS" tvg-logo="https://lo1.in/indo/all.png" group-title="AS | INDONESEA",ID| ALL SPORTS
-http://sharkiptv.vip:80/0863663869/2048942146/191780
 #EXTINF:-1 tvg-id="beritasatu.id" tvg-name="ID| BERITASATU HD" tvg-logo="https://lo1.in/indo/ber.png" group-title="AS | INDONESEA",ID| BERITASATU HD
 http://sharkiptv.vip:80/0863663869/2048942146/191783
 #EXTINF:-1 tvg-id="channelnewsasia.id" tvg-name="ID| CHANNEL NEWS ASIA HD" tvg-logo="https://lo1.in/indo/ch.png" group-title="AS | INDONESEA",ID| CHANNEL NEWS ASIA HD
@@ -71,38 +69,6 @@ http://sharkiptv.vip:80/0863663869/2048942146/400200722
 http://sharkiptv.vip:80/0863663869/2048942146/400200711
 #EXTINF:-1 tvg-id="" tvg-name="ID| TVR PARLEMEN [ LIVE EVENTS ONLY ]" tvg-logo="https://lo1.in/indo/t5.png" group-title="AS | INDONESEA",ID| TVR PARLEMEN [ LIVE EVENTS ONLY ]
 http://sharkiptv.vip:80/0863663869/2048942146/400200776
-#EXTINF:-1 tvg-id="" tvg-name="ID| TVR PARLEMEN BADAN ANGGARAN [ LIVE EVENTS ONLY ]" tvg-logo="https://lo1.in/indo/t5.png" group-title="AS | INDONESEA",ID| TVR PARLEMEN BADAN ANGGARAN [ LIVE EVENTS ONLY ]
-http://sharkiptv.vip:80/0863663869/2048942146/400200775
-#EXTINF:-1 tvg-id="" tvg-name="ID| TVR PARLEMEN BADAN LEGISLATIF [ LIVE EVENTS ONLY ]" tvg-logo="https://lo1.in/indo/t5.png" group-title="AS | INDONESEA",ID| TVR PARLEMEN BADAN LEGISLATIF [ LIVE EVENTS ONLY ]
-http://sharkiptv.vip:80/0863663869/2048942146/400200774
-#EXTINF:-1 tvg-id="" tvg-name="ID| TVR PARLEMEN BADAN MUSYAWARAH [ LIVE EVENTS ONLY ]" tvg-logo="https://lo1.in/indo/t5.png" group-title="AS | INDONESEA",ID| TVR PARLEMEN BADAN MUSYAWARAH [ LIVE EVENTS ONLY ]
-http://sharkiptv.vip:80/0863663869/2048942146/400200773
-#EXTINF:-1 tvg-id="" tvg-name="ID| TVR PARLEMEN BAKN [ LIVE EVENTS ONLY ]" tvg-logo="https://lo1.in/indo/t5.png" group-title="AS | INDONESEA",ID| TVR PARLEMEN BAKN [ LIVE EVENTS ONLY ]
-http://sharkiptv.vip:80/0863663869/2048942146/400200772
-#EXTINF:-1 tvg-id="" tvg-name="ID| TVR PARLEMEN BKSAP [ LIVE EVENTS ONLY ]" tvg-logo="https://lo1.in/indo/t5.png" group-title="AS | INDONESEA",ID| TVR PARLEMEN BKSAP [ LIVE EVENTS ONLY ]
-http://sharkiptv.vip:80/0863663869/2048942146/400200771
-#EXTINF:-1 tvg-id="" tvg-name="ID| TVR PARLEMEN KOMISI I [ LIVE EVENTS ONLY ]" tvg-logo="https://lo1.in/indo/t5.png" group-title="AS | INDONESEA",ID| TVR PARLEMEN KOMISI I [ LIVE EVENTS ONLY ]
-http://sharkiptv.vip:80/0863663869/2048942146/400200770
-#EXTINF:-1 tvg-id="" tvg-name="ID| TVR PARLEMEN KOMISI II [ LIVE EVENTS ONLY ]" tvg-logo="https://lo1.in/indo/t5.png" group-title="AS | INDONESEA",ID| TVR PARLEMEN KOMISI II [ LIVE EVENTS ONLY ]
-http://sharkiptv.vip:80/0863663869/2048942146/400200769
-#EXTINF:-1 tvg-id="" tvg-name="ID| TVR PARLEMEN KOMISI III [ LIVE EVENTS ONLY ]" tvg-logo="https://lo1.in/indo/t5.png" group-title="AS | INDONESEA",ID| TVR PARLEMEN KOMISI III [ LIVE EVENTS ONLY ]
-http://sharkiptv.vip:80/0863663869/2048942146/400200768
-#EXTINF:-1 tvg-id="" tvg-name="ID| TVR PARLEMEN KOMISI IV [ LIVE EVENTS ONLY ]" tvg-logo="https://lo1.in/indo/t5.png" group-title="AS | INDONESEA",ID| TVR PARLEMEN KOMISI IV [ LIVE EVENTS ONLY ]
-http://sharkiptv.vip:80/0863663869/2048942146/400200767
-#EXTINF:-1 tvg-id="" tvg-name="ID| TVR PARLEMEN KOMISI IX [ LIVE EVENTS ONLY ]" tvg-logo="https://lo1.in/indo/t5.png" group-title="AS | INDONESEA",ID| TVR PARLEMEN KOMISI IX [ LIVE EVENTS ONLY ]
-http://sharkiptv.vip:80/0863663869/2048942146/400200766
-#EXTINF:-1 tvg-id="" tvg-name="ID| TVR PARLEMEN KOMISI V [ LIVE EVENTS ONLY ]" tvg-logo="https://lo1.in/indo/t5.png" group-title="AS | INDONESEA",ID| TVR PARLEMEN KOMISI V [ LIVE EVENTS ONLY ]
-http://sharkiptv.vip:80/0863663869/2048942146/400200765
-#EXTINF:-1 tvg-id="" tvg-name="ID| TVR PARLEMEN KOMISI VI [ LIVE EVENTS ONLY ]" tvg-logo="https://lo1.in/indo/t5.png" group-title="AS | INDONESEA",ID| TVR PARLEMEN KOMISI VI [ LIVE EVENTS ONLY ]
-http://sharkiptv.vip:80/0863663869/2048942146/400200764
-#EXTINF:-1 tvg-id="" tvg-name="ID| TVR PARLEMEN KOMISI VII [ LIVE EVENTS ONLY ]" tvg-logo="https://lo1.in/indo/t5.png" group-title="AS | INDONESEA",ID| TVR PARLEMEN KOMISI VII [ LIVE EVENTS ONLY ]
-http://sharkiptv.vip:80/0863663869/2048942146/400200763
-#EXTINF:-1 tvg-id="" tvg-name="ID| TVR PARLEMEN KOMISI VIII [ LIVE EVENTS ONLY ]" tvg-logo="https://lo1.in/indo/t5.png" group-title="AS | INDONESEA",ID| TVR PARLEMEN KOMISI VIII [ LIVE EVENTS ONLY ]
-http://sharkiptv.vip:80/0863663869/2048942146/400200762
-#EXTINF:-1 tvg-id="" tvg-name="ID| TVR PARLEMEN KOMISI X [ LIVE EVENTS ONLY ]" tvg-logo="https://lo1.in/indo/t5.png" group-title="AS | INDONESEA",ID| TVR PARLEMEN KOMISI X [ LIVE EVENTS ONLY ]
-http://sharkiptv.vip:80/0863663869/2048942146/400200761
-#EXTINF:-1 tvg-id="" tvg-name="ID| TVR PARLEMEN KOMISI XI [ LIVE EVENTS ONLY ]" tvg-logo="https://lo1.in/indo/t5.png" group-title="AS | INDONESEA",ID| TVR PARLEMEN KOMISI XI [ LIVE EVENTS ONLY ]
-http://sharkiptv.vip:80/0863663869/2048942146/400200760
 #EXTINF:-1 tvg-id="" tvg-name="ID| CGTN HD" tvg-logo="https://lo1.in/indo/cgt.png" group-title="AS | INDONESEA",ID| CGTN HD
 http://sharkiptv.vip:80/0863663869/2048942146/45000
 #EXTINF:-1 tvg-id="" tvg-name="ID| CGTN DOCUMENTARY HD" tvg-logo="https://lo1.in/car/cgtdoc.png" group-title="AS | INDONESEA",ID| CGTN DOCUMENTARY HD
@@ -305,49 +271,3 @@ http://sharkiptv.vip:80/0863663869/2048942146/17380
 http://sharkiptv.vip:80/0863663869/2048942146/45095
 #EXTINF:-1 tvg-id="" tvg-name="ID| TEGAR TV" tvg-logo="https://lo1.in/indo/teg.png" group-title="AS | INDONESEA",ID| TEGAR TV
 http://sharkiptv.vip:80/0863663869/2048942146/191803
-#EXTINF:-1 tvg-id="" tvg-name="ID| TVRI JAWA BARAT" tvg-logo="https://lo1.in/indo/t4.png" group-title="AS | INDONESEA",ID| TVRI JAWA BARAT
-http://sharkiptv.vip:80/0863663869/2048942146/191809
-#EXTINF:-1 tvg-id="" tvg-name="ID| TVRI YOGYAKARTA HD" tvg-logo="https://lo1.in/indo/t2.png" group-title="AS | INDONESEA",ID| TVRI YOGYAKARTA HD
-http://sharkiptv.vip:80/0863663869/2048942146/400200712
-#EXTINF:-1 tvg-id="" tvg-name="ID| TVRI SUMATERA UTARA HD" tvg-logo="https://lo1.in/indo/t2.png" group-title="AS | INDONESEA",ID| TVRI SUMATERA UTARA HD
-http://sharkiptv.vip:80/0863663869/2048942146/400200713
-#EXTINF:-1 tvg-id="" tvg-name="ID| TVRI SUMATERA SELATAN HD" tvg-logo="https://lo1.in/indo/t2.png" group-title="AS | INDONESEA",ID| TVRI SUMATERA SELATAN HD
-http://sharkiptv.vip:80/0863663869/2048942146/400200714
-#EXTINF:-1 tvg-id="" tvg-name="ID| TVRI SUMATERA BARAT HD" tvg-logo="https://lo1.in/indo/t2.png" group-title="AS | INDONESEA",ID| TVRI SUMATERA BARAT HD
-http://sharkiptv.vip:80/0863663869/2048942146/400200715
-#EXTINF:-1 tvg-id="" tvg-name="ID| TVRI SULAWESI UTARA HD" tvg-logo="https://lo1.in/indo/t2.png" group-title="AS | INDONESEA",ID| TVRI SULAWESI UTARA HD
-http://sharkiptv.vip:80/0863663869/2048942146/400200716
-#EXTINF:-1 tvg-id="" tvg-name="ID| TVRI SULAWESI TENGGARA HD" tvg-logo="https://lo1.in/indo/t2.png" group-title="AS | INDONESEA",ID| TVRI SULAWESI TENGGARA HD
-http://sharkiptv.vip:80/0863663869/2048942146/400200717
-#EXTINF:-1 tvg-id="" tvg-name="ID| TVRI SULAWESI TENGAH HD" tvg-logo="https://lo1.in/indo/t2.png" group-title="AS | INDONESEA",ID| TVRI SULAWESI TENGAH HD
-http://sharkiptv.vip:80/0863663869/2048942146/400200718
-#EXTINF:-1 tvg-id="" tvg-name="ID| TVRI SULAWESI SELATAN HD" tvg-logo="https://lo1.in/indo/t2.png" group-title="AS | INDONESEA",ID| TVRI SULAWESI SELATAN HD
-http://sharkiptv.vip:80/0863663869/2048942146/400200719
-#EXTINF:-1 tvg-id="" tvg-name="ID| TVRI NUSA TENGGARA TIMUR HD" tvg-logo="https://lo1.in/indo/t2.png" group-title="AS | INDONESEA",ID| TVRI NUSA TENGGARA TIMUR HD
-http://sharkiptv.vip:80/0863663869/2048942146/400200723
-#EXTINF:-1 tvg-id="" tvg-name="ID| TVRI NUSA TENGGARA BARAT HD" tvg-logo="https://lo1.in/indo/t2.png" group-title="AS | INDONESEA",ID| TVRI NUSA TENGGARA BARAT HD
-http://sharkiptv.vip:80/0863663869/2048942146/400200724
-#EXTINF:-1 tvg-id="" tvg-name="ID| TVRI MALUKU HD" tvg-logo="https://lo1.in/indo/t2.png" group-title="AS | INDONESEA",ID| TVRI MALUKU HD
-http://sharkiptv.vip:80/0863663869/2048942146/400200725
-#EXTINF:-1 tvg-id="" tvg-name="ID| TVRI LAMPUNG HD" tvg-logo="https://lo1.in/indo/t2.png" group-title="AS | INDONESEA",ID| TVRI LAMPUNG HD
-http://sharkiptv.vip:80/0863663869/2048942146/400200726
-#EXTINF:-1 tvg-id="" tvg-name="ID| TVRI KANAL 3 HD" tvg-logo="https://lo1.in/indo/t2.png" group-title="AS | INDONESEA",ID| TVRI KANAL 3 HD
-http://sharkiptv.vip:80/0863663869/2048942146/400200727
-#EXTINF:-1 tvg-id="" tvg-name="ID| TVRI KALIMANTAN TIMUR HD" tvg-logo="https://lo1.in/indo/t2.png" group-title="AS | INDONESEA",ID| TVRI KALIMANTAN TIMUR HD
-http://sharkiptv.vip:80/0863663869/2048942146/400200728
-#EXTINF:-1 tvg-id="" tvg-name="ID| TVRI KALIMANTAN TENGAH HD" tvg-logo="https://lo1.in/indo/t2.png" group-title="AS | INDONESEA",ID| TVRI KALIMANTAN TENGAH HD
-http://sharkiptv.vip:80/0863663869/2048942146/400200729
-#EXTINF:-1 tvg-id="" tvg-name="ID| TVRI KALIMANTAN SELATAN HD" tvg-logo="https://lo1.in/indo/t2.png" group-title="AS | INDONESEA",ID| TVRI KALIMANTAN SELATAN HD
-http://sharkiptv.vip:80/0863663869/2048942146/400200730
-#EXTINF:-1 tvg-id="" tvg-name="ID| TVRI JAWA TIMUR HD" tvg-logo="https://lo1.in/indo/t2.png" group-title="AS | INDONESEA",ID| TVRI JAWA TIMUR HD
-http://sharkiptv.vip:80/0863663869/2048942146/400200733
-#EXTINF:-1 tvg-id="" tvg-name="ID| TVRI JAWA TENGAH HD" tvg-logo="https://lo1.in/indo/t2.png" group-title="AS | INDONESEA",ID| TVRI JAWA TENGAH HD
-http://sharkiptv.vip:80/0863663869/2048942146/400200734
-#EXTINF:-1 tvg-id="" tvg-name="ID| TVRI JAMBI HD" tvg-logo="https://lo1.in/indo/t2.png" group-title="AS | INDONESEA",ID| TVRI JAMBI HD
-http://sharkiptv.vip:80/0863663869/2048942146/400200735
-#EXTINF:-1 tvg-id="" tvg-name="ID| TVRI GORONTALO HD" tvg-logo="https://lo1.in/indo/t2.png" group-title="AS | INDONESEA",ID| TVRI GORONTALO HD
-http://sharkiptv.vip:80/0863663869/2048942146/400200736
-#EXTINF:-1 tvg-id="" tvg-name="ID| TVRI BALI HD" tvg-logo="https://lo1.in/indo/t2.png" group-title="AS | INDONESEA",ID| TVRI BALI HD
-http://sharkiptv.vip:80/0863663869/2048942146/400200739
-#EXTINF:-1 tvg-id="" tvg-name="ID| TVRI ACEH HD" tvg-logo="https://lo1.in/indo/t2.png" group-title="AS | INDONESEA",ID| TVRI ACEH HD
-http://sharkiptv.vip:80/0863663869/2048942146/400200740
