@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="ID| Suka Duka Uni Unaa" tvg-logo="http://124s2.xyz:900/images/2pyFDJc8yWXWY7WbnSHO8cv722x_big.jpg" group-title="[ID] INDONESIA",ID| Suka Duka Uni Unaa
 http://sharkiptv.vip:80/movie/6976786004/7280566957/400569163.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ID| Wunderland" tvg-logo="http://124s2.xyz:900/images/WRTtEKVKkCKBJBVGQart22fXap_big.jpg" group-title="[ID] INDONESIA",ID| Wunderland
@@ -265,7 +266,6 @@ http://sharkiptv.vip:80/movie/6976786004/7280566957/400499350.mkv
 http://sharkiptv.vip:80/movie/6976786004/7280566957/400499349.mkv
 #EXTINF:-1 tvg-id="" tvg-name="ID| The Godfather" tvg-logo="http://124s2.xyz:900/images/3bhkrj58Vtu7enYsRolD1fZdja1_big.jpg" group-title="[ID] INDONESIA",ID| The Godfather
 http://sharkiptv.vip:80/movie/6976786004/7280566957/400499347.mkv
-
 #EXTINF:-1 tvg-id="" tvg-name="ID| Nazar Andaaz" tvg-logo="http://124s2.xyz:900/images/lRu6wDtD6t0qgY1w5eiWrSSoOhx_big.jpg" group-title="[ID] INDONESIA",ID| Nazar Andaaz
 http://sharkiptv.vip:80/movie/6976786004/7280566957/400496968.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ID| Maa Da Ladla" tvg-logo="http://124s2.xyz:900/images/pRVLJmK2t0PkoIfEBNPYUOuWHXC_big.jpg" group-title="[ID] INDONESIA",ID| Maa Da Ladla
@@ -316,8 +316,6 @@ http://sharkiptv.vip:80/movie/6976786004/7280566957/400490272.mkv
 http://sharkiptv.vip:80/movie/6976786004/7280566957/400490271.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ID| Cemara's Family 2" tvg-logo="http://124s2.xyz:900/images/kj2zoNB6UhNjp3J6wEEpLsEYPcI_big.jpg" group-title="[ID] INDONESIA",ID| Cemara's Family 2
 http://sharkiptv.vip:80/movie/6976786004/7280566957/400490270.mp4
-#EXTINF:-1 tvg-id="" tvg-name="JP| The Violence Action" tvg-logo="http://124s2.xyz:900/images/zMxhCIqLvDpi3JpnKdMV2drI1hB_big.jpg" group-title="[JP] JAPAN",JP| The Violence Action
-http://sharkiptv.vip:80/movie/6976786004/7280566957/400490269.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ID| Sebalik Hati" tvg-logo="" group-title="[ID] INDONESIA",ID| Sebalik Hati
 http://sharkiptv.vip:80/movie/6976786004/7280566957/400489129.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ID| Sardar" tvg-logo="http://124s2.xyz:900/images/xAheQykglK0vMBeCTGFOaMGaJtV_big.jpg" group-title="[ID] INDONESIA",ID| Sardar
@@ -330,7 +328,7 @@ http://sharkiptv.vip:80/movie/6976786004/7280566957/400489126.mp4
 http://sharkiptv.vip:80/movie/6976786004/7280566957/400489125.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ID| The Wannn Believe" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_g6vnrde9/banner_mdpi.jpg" group-title="[ID] INDONESIA",ID| The Wannn Believe
 http://sharkiptv.vip:80/movie/6976786004/7280566957/400489008.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CH| Tabu: Mengusik Gerbang Iblis" tvg-logo="http://124s2.xyz:900/images/a2AFd45gSDy5vfRp6FIAikvhviE_big.jpg" group-title="[ID] INDONESIA",CH| Tabu: Mengusik Gerbang Iblis
+#EXTINF:-1 tvg-id="" tvg-name="ID| Tabu: Mengusik Gerbang Iblis" tvg-logo="http://124s2.xyz:900/images/a2AFd45gSDy5vfRp6FIAikvhviE_big.jpg" group-title="[ID] INDONESIA",CH| Tabu: Mengusik Gerbang Iblis
 http://sharkiptv.vip:80/movie/6976786004/7280566957/400489007.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ID| Vampire Vs Vampire" tvg-logo="http://124s2.xyz:900/images/8XJjWsark8e6V5Ruz40eJNsjv7B_big.jpg" group-title="[ID] INDONESIA",ID| Vampire Vs Vampire
 http://sharkiptv.vip:80/movie/6976786004/7280566957/400487604.mp4
@@ -436,8 +434,6 @@ http://sharkiptv.vip:80/movie/6976786004/7280566957/400468494.mp4
 http://sharkiptv.vip:80/movie/6976786004/7280566957/400468344.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ID| Dongalunnaru Jagratha" tvg-logo="http://etc12.xyz:900/images/l7mAps47NzjzRdPtVNr352xQ0Vx_big.jpg" group-title="[ID] INDONESIA",ID| Dongalunnaru Jagratha
 http://sharkiptv.vip:80/movie/6976786004/7280566957/400468343.mp468087.mp4
-#EXTINF:-1 tvg-id="" tvg-name="MY| Warkah Syurga" tvg-logo="http://etc12.xyz:900/images/9jeRGUy1N26jAaTmg4N8laIWlq1_big.jpg" group-title="[ID] INDONESIA",MY| Warkah Syurga
-http://sharkiptv.vip:80/movie/6976786004/7280566957/400468080.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ID| Even Lambs Have Teeth" tvg-logo="http://etc12.xyz:900/images/rG1Dx8h5CYILB60zBtfPZLpyJYc_big.jpg" group-title="[ID] INDONESIA",ID| Even Lambs Have Teeth
 http://sharkiptv.vip:80/movie/6976786004/7280566957/400468079.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ID| Patel S.I.R" tvg-logo="http://etc12.xyz:900/images/jt0dE58mIyPJqoaDSP4zia4f6XQ_big.jpg" group-title="[ID] INDONESIA",ID| Patel S.I.R
@@ -734,8 +730,6 @@ http://sharkiptv.vip:80/movie/6976786004/7280566957/400454934.mp4
 http://sharkiptv.vip:80/movie/6976786004/7280566957/400454933.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ID| Boiler Room" tvg-logo="https://i2.wp.com/jerriwilliams.com/wp-content/uploads/2021/11/Boiler-room-wide.jpg?fit=1916%2C1078&ssl=1" group-title="[ID] INDONESIA",ID| Boiler Room
 http://sharkiptv.vip:80/movie/6976786004/7280566957/400454784.mkv
-#EXTINF:-1 tvg-id="" tvg-name="TH| The Whole Truth" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDBhZjIyNjctY2RlNS00MzJjLWIwZGItZGQxOWQyNGE2NjljXkEyXkFqcGdeQXVyNjk3NDA1NTE@._V1_FMjpg_UX1000_.jpg" group-title="[TH] THAILAND",TH| The Whole Truth
-http://sharkiptv.vip:80/movie/6976786004/7280566957/400454246.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ID| James" tvg-logo="https://www.themoviedb.org/t/p/original/eMNx3pviLupzhHvtrCuyJZ6VW6V.jpg" group-title="[ID] INDONESIA",ID| James
 http://sharkiptv.vip:80/movie/6976786004/7280566957/400454228.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ID| Idiot" tvg-logo="https://www.themoviedb.org/t/p/w500/yhlUyb7Twmm2WchmcHqDNCuIcCD.jpg" group-title="[ID] INDONESIA",ID| Idiot
@@ -788,11 +782,9 @@ http://sharkiptv.vip:80/movie/6976786004/7280566957/400453738.mkv
 http://sharkiptv.vip:80/movie/6976786004/7280566957/400453737.mkv
 #EXTINF:-1 tvg-id="" tvg-name="ID| After Ever Happy" tvg-logo="http://etc12.xyz:900/images/6b7swg6DLqXCO3XUsMnv6RwDMW2_big.jpg" group-title="[ID] INDONESIA",ID| After Ever Happy
 http://sharkiptv.vip:80/movie/6976786004/7280566957/400453735.mkv
-a" tvg-logo="http://etc12.xyz:900/images/eYWdQX6O5DoLqKvpiuU2ELwRnvZ_big.jpg" group-title="[ID] INDONESIA",ID| Bulan Terbelah di Langit Amerika
-http://sharkiptv.vip:80/movie/6976786004/7280566957/400453722.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ID| Bulan Terbelah di Langit Amerika 2" tvg-logo="http://etc12.xyz:900/images/jQloVXUMD9DRVm9TvGQLo1OWq08_big.jpg" group-title="[ID] INDONESIA",ID| Bulan Terbelah di Langit Amerika 2
 http://sharkiptv.vip:80/movie/6976786004/7280566957/400453721.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CH| The Legend Of Aquawitch" tvg-logo="http://etc12.xyz:900/images/dn1OhL0SbWY1VKDtSSRFIKB41p0_big.jpg" group-title="[ID] INDONESIA",CH| The Legend Of Aquawitch
+#EXTINF:-1 tvg-id="" tvg-name="ID| The Legend Of Aquawitch" tvg-logo="http://etc12.xyz:900/images/dn1OhL0SbWY1VKDtSSRFIKB41p0_big.jpg" group-title="[ID] INDONESIA",CH| The Legend Of Aquawitch
 http://sharkiptv.vip:80/movie/6976786004/7280566957/400453557.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ID| Bumi Itu Bulat" tvg-logo="http://etc12.xyz:900/images/d3dCCkqblDONevHA9faBX1ezeXw_big.jpg" group-title="[ID] INDONESIA",ID| Bumi Itu Bulat
 http://sharkiptv.vip:80/movie/6976786004/7280566957/400453556.mp4
@@ -850,8 +842,6 @@ http://sharkiptv.vip:80/movie/6976786004/7280566957/400452881.mp4
 http://sharkiptv.vip:80/movie/6976786004/7280566957/400452880.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ID| Crawlspace" tvg-logo="http://etc12.xyz:900/images/vb8hYUd3Db9HxGOt6LQBO1ea9w1_big.jpg" group-title="[ID] INDONESIA",ID| Crawlspace
 http://sharkiptv.vip:80/movie/6976786004/7280566957/400452879.mp4
-#EXTINF:-1 tvg-id="" tvg-name="JP| Love Nonetheless" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3iSO2QxyY4r30QtXY8z6xITBypl.jpg" group-title="[JP] JAPAN",JP| Love Nonetheless
-http://sharkiptv.vip:80/movie/6976786004/7280566957/400452878.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ID| Backstage" tvg-logo="http://etc12.xyz:900/images/zV9lREMWPUyOSLeySjf4RFj9mQx_big.jpg" group-title="[ID] INDONESIA",ID| Backstage
 http://sharkiptv.vip:80/movie/6976786004/7280566957/400452877.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ID| ACHARYA" tvg-logo="http://etc12.xyz:900/images/9Hge69tLkK8YAXdvw2b4gGXh5PH_big.jpg" group-title="[ID] INDONESIA",ID| ACHARYA
@@ -864,8 +854,6 @@ http://sharkiptv.vip:80/movie/6976786004/7280566957/400452650.mp4
 http://sharkiptv.vip:80/movie/6976786004/7280566957/400452649.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ID| York Witches Society" tvg-logo="http://etc12.xyz:900/images/8vyaZsMiGQZZebpaNzemAGXVHVX_big.jpg" group-title="[ID] INDONESIA",ID| York Witches Society
 http://sharkiptv.vip:80/movie/6976786004/7280566957/400452647.mp4
-#EXTINF:-1 tvg-id="" tvg-name="JP| You've Got A Friend" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dSNThy7gN1ChJYZDYCWr1wrOBIZ.jpg" group-title="[JP] JAPAN",JP| You've Got A Friend
-http://sharkiptv.vip:80/movie/6976786004/7280566957/400452646.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ID| Ular Tangga (2017)" tvg-logo="http://etc12.xyz:900/images/iVPdh8wPbj4Lv5vaEdpxlq7RbZn_big.jpg" group-title="[ID] INDONESIA",ID| Ular Tangga (2017)
 http://sharkiptv.vip:80/movie/6976786004/7280566957/400452645.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ID| Akhirat: A Love Story" tvg-logo="http://etc12.xyz:900/images/vd8R2uv6MnORHmoqoegilZBioKs_big.jpg" group-title="[ID] INDONESIA",ID| Akhirat: A Love Story
@@ -964,8 +952,6 @@ http://sharkiptv.vip:80/movie/6976786004/7280566957/400451580.mp4
 http://sharkiptv.vip:80/movie/6976786004/7280566957/400451579.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ID| 100% Halal" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/M8FHVVnmIVY1GlvmmXrkjkNgUY.jpg" group-title="[ID] INDONESIA",ID| 100% Halal
 http://sharkiptv.vip:80/movie/6976786004/7280566957/400451578.mp4
-#EXTINF:-1 tvg-id="" tvg-name="KO| Zombie Crush in Heyri" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/osqKP97luGJ4LzChvkEf9kQe3Y1.jpg" group-title="[KO] KOREA",KO| Zombie Crush in Heyri
-http://sharkiptv.vip:80/movie/6976786004/7280566957/400451519.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ID| Mencuri Raden Saleh" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/1fdqRcgEYNkXCnnKAzz2JtFnUv7.jpg" group-title="[ID] INDONESIA",ID| Mencuri Raden Saleh
 http://sharkiptv.vip:80/movie/6976786004/7280566957/400451435.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ID| The Ambush" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/v36ZuaYTKBraxR3jwJorSDdHYW2.jpg" group-title="[ID] INDONESIA",ID| The Ambush
@@ -976,8 +962,6 @@ http://sharkiptv.vip:80/movie/6976786004/7280566957/400451433.mp4
 http://sharkiptv.vip:80/movie/6976786004/7280566957/400451432.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ID| Tubelight" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/hy7Ka19Vx2TwXA6OWZSe4XuMDlK.jpg" group-title="[ID] INDONESIA",ID| Tubelight
 http://sharkiptv.vip:80/movie/6976786004/7280566957/400450578.mp4
-#EXTINF:-1 tvg-id="" tvg-name="JP| Bleach (2018)" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSSCWEtBbgcjHw0h4JliQHzuo4QZYLptvI1xc-wpUmD_PFigoHH" group-title="[JP] JAPAN",JP| Bleach (2018)
-http://sharkiptv.vip:80/movie/6976786004/7280566957/400450050.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ID| Vikrant Rona" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/2IfxcpcPPuFrI5slMaH0Ln4z2o8.jpg" group-title="[ID] INDONESIA",ID| Vikrant Rona
 http://sharkiptv.vip:80/movie/6976786004/7280566957/400450042.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ID| Beranak Dalam Kubur(2007)" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/utuickVSZPAEB0w5QUv0XDBucMg.jpg" group-title="[ID] INDONESIA",ID| Beranak Dalam Kubur(2007)
@@ -1030,10 +1014,6 @@ http://sharkiptv.vip:80/movie/6976786004/7280566957/400449905.mkv
 http://sharkiptv.vip:80/movie/6976786004/7280566957/400449899.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ID| ICHATA VAHANAMULU NILUPARADU(2021)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGFiODAxMzAtODVkZC00ODk5LWI2NjAtYTA1NGRmOTMxN2I1XkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_FMjpg_UX1000_.jpg" group-title="[ID] INDONESIA",ID| ICHATA VAHANAMULU NILUPARADU(2021)
 http://sharkiptv.vip:80/movie/6976786004/7280566957/400449891.mp4
-#EXTINF:-1 tvg-id="" tvg-name="MY| Perjalanan Pulang Saat (2022)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTpMjjzbSPYQqH6HsDOArXg-UvDZu9Ld0gleDZZnurx1OB-OF5RsPHoF0W7kIql-AX2E3F3YkiVO-Jupj2Ia3rh3_9hEcDJQYk8xV5S9YUBp10RglEnrj9GMdhLwn2vhx2cJK3bAoMRxsSX2QUO2414A-hH_ZK8ZgYz8TtIXAQJv8m-_slao3aoWO4yQ/s16000/Perjalanan%20Pulang%20Saat.jpg" group-title="[MY] MALAYSIA",MY| Perjalanan Pulang Saat (2022)
-http://sharkiptv.vip:80/movie/6976786004/7280566957/400449694.mp4
-#EXTINF:-1 tvg-id="" tvg-name="MY| Pondok Merdeka (2022)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisw1AbCRzZwsHKEFJjC15PgQIdblWOFVc9nill8LQ_aERhQ3O63J1sFKg_ClBJDbuGUHIWqW6I7UgK0xCSo6Fzn-8_pB2DPI3c4uLh3tocgfl7UGLVWoookTeQs4uNoe9iNbqAJQLBp9Pi04ya6ufV_syjwkC7COoAm_5GZJZqB1o19ZsNy9AB_YqoUg/s16000/Pondok%20Merdeka.jpg" group-title="[MY] MALAYSIA",MY| Pondok Merdeka (2022)
-http://sharkiptv.vip:80/movie/6976786004/7280566957/400449692.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ID| Kuri" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/6PFlIYNynzJTevfden3BHvlxtLR.jpg" group-title="[ID] INDONESIA",ID| Kuri
 http://sharkiptv.vip:80/movie/6976786004/7280566957/400449690.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ID| Khuda Haafiz: Chapter 2" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/dWYGHG6yIG8Fh8LwhbGnnaYNYyX.jpg" group-title="[ID] INDONESIA",ID| Khuda Haafiz: Chapter 2
@@ -1396,8 +1376,6 @@ http://sharkiptv.vip:80/movie/6976786004/7280566957/400426101.mp4
 http://sharkiptv.vip:80/movie/6976786004/7280566957/400426100.mkv
 #EXTINF:-1 tvg-id="" tvg-name="ID| Saunkan Saunkne" tvg-logo="http://tv365.me:900/images/rMAreVJF8PxvKFSUNsTYyCuJdTi_big.jpg" group-title="[ID] INDONESIA",ID| Saunkan Saunkne
 http://sharkiptv.vip:80/movie/6976786004/7280566957/400426099.mp4
-#EXTINF:-1 tvg-id="" tvg-name="MY| demi raya" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq2BZ8ya_6eoYg9YLWPnsJUcDFdzK4Lq6nHvhHIf1jAq1NJaelJN4GyVWjD1XC7vvJEdctQpvKOpNj-gDmqTJYOmFWKYpsJpi6mtiIb3y982iZ0P0vpblc4gsBGjygJjp3ZxD9h16Fgp0bSKIi1_SPf5-NjGtfFCQ5Ng1h6i-HbrR7AloHIaHGMtH3hg/s16000/Demi%20Raya.jpg" group-title="[MY] MALAYSIA",MY| demi raya
-http://sharkiptv.vip:80/movie/6976786004/7280566957/400426098.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ID| Rumah Gurita" tvg-logo="http://tv365.me:900/images/rxAEdaoinpLahtU0dwjxhmtDLDN_big.jpg" group-title="[ID] INDONESIA",ID| Rumah Gurita
 http://sharkiptv.vip:80/movie/6976786004/7280566957/400426094.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ID| ROY (2015) HINDI" tvg-logo="http://tv365.me:900/images/kiQVm9AUAHhFhl4vPZAZJQMyRh2_big.jpg" group-title="[ID] INDONESIA",ID| ROY (2015) HINDI
